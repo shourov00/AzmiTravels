@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "857840510149",
+    "firebase_url": "https://fir-storageuploadexample.firebaseio.com",
+    "project_id": "fir-storageuploadexample",
+    "storage_bucket": "fir-storageuploadexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857840510149:android:898fc1bc93408cd6",
+        "android_client_info": {
+          "package_name": "com.projectidea.shourov.azmitravels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857840510149-k1qfjolu5gn71483fjilkh0jungjt3b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projectidea.shourov.azmitravels",
+            "certificate_hash": "aa2959e4fe8bceb62a50351c7ccbff9991131e47"
+          }
+        },
+        {
+          "client_id": "857840510149-1dml9vf2cbmmcdlmo1pkipv83ur4qc0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWpFZqpCWl9J5GH9CZgguzwcWlL1WCCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857840510149-1dml9vf2cbmmcdlmo1pkipv83ur4qc0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857840510149:android:4cdfcbe2281d687d",
+        "android_client_info": {
+          "package_name": "com.tutorial.shourov.firebasestorageuploadexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857840510149-8o3utj8glspi5sml9f45o36g1hofqksn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorial.shourov.firebasestorageuploadexample",
+            "certificate_hash": "aa2959e4fe8bceb62a50351c7ccbff9991131e47"
+          }
+        },
+        {
+          "client_id": "857840510149-1dml9vf2cbmmcdlmo1pkipv83ur4qc0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWpFZqpCWl9J5GH9CZgguzwcWlL1WCCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857840510149-1dml9vf2cbmmcdlmo1pkipv83ur4qc0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

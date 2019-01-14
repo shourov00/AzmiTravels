@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Azmi Travels</string>
+    <string name="splash_text">Discover \nnew place \ntoday</string>
+    <string name="splash_btn_text">Take me in</string>
+    <string name="splash_app_name">Azmi Travels And Tours</string>
+    <string name="travel_service">Travel Service</string>
+    <string name="facebook_app_id">506850729803347</string>
+    <string name="fb_login_protocol_scheme">fb506850729803347</string>
+    <string name="facebook_login">Login with facebook</string>
+    <string name="personal_tour">Personal Tour</string>
+    <string name="group_tour">Group tour</string>
+    <string name="call">Call</string>
+    <string name="visa">Visa</string>
+    <string name="about">\'Azmi Travels And Tours\' is a registered Travel Agency. We providing you with the best Air fare, Tour deals &amp; packages, Visa assistance, Cruise deals and other tourism related products. Thanks for having us.  </string>
+    <string name="location">Address: House #70, Road #11, Block #D, Banani,\n1213 Dhaka, Bangladesh</string>
+    <string name="phone">Phone: +880161651111</string>
+    <string name="email">Email: azmitravelsandtours@gmail.com</string>
+    <string name="version">App Version: 1.0.0</string>
+    <string name="creatorName">Fazley Rabbi</string>
+
+
+</resources>
